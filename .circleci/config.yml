@@ -32,10 +32,9 @@ jobs:
           name: Deploy Front-End
           command: |
             npm run frontend:deploy
-<<<<<<< HEAD
       - run:
           name: Deploy Back-End
           command: |
             npm run backend:deploy
-=======
+
 
